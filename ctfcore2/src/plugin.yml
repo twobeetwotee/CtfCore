@@ -1,0 +1,22 @@
+name: CTFCORE
+main: io.github.elliottleow.Main
+version: 1.0
+commands:
+  getteam:
+    description: gets team
+    usage: /getteam
+  tests:
+    description: test scoreboard
+    usage: /tests
+  setflag:
+    description: test scoreboard
+    usage: /tests
+  seeflags:
+    description: test scoreboard
+    usage: /tests
+  confirmflags:
+    description: test scoreboard
+    usage: /tests
+  ctf:
+    description: ctf
+    usage: /ctf
